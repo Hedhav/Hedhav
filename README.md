@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hedhav
 - 👀 I’m interested in AI/ML and Data Analytics.
-- 🌱 I’m currently learning cryptography.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : You can't.  :)
 
