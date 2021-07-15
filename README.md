@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hedhav
 - 👀 I’m interested in AI/ML and Data Analytics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Linux System Administration
+- 💞️ I’m looking to collaborate on nothing, as of now
 - 📫 How to reach me : You can't.   :)
 
 <!---
