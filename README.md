@@ -1,8 +1,7 @@
 Hey! I'm Hedhav
 
-I mostly deal with devops - dockerizing server setups, bash scripting, hosting  server maintainance, database management. </br>
-I also play the occasional CTF, predominantly in the forensics category with a special interest for steganography.
-
+I mostly deal with devops - dockerizing server setups, bash scripting, hosting, server maintainance, database management. </br> </br>
+I also play the occasional CTF, predominantly in the forensics category, with a special interest for steganography.
 
 
 <!---
