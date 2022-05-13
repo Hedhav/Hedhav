@@ -1,7 +1,7 @@
 Hey! I'm Hedhav
 
-Nothing much to see here, considering I'm still a newbie to coding. </br>
-You're still welcome to have a look around, though.  :)
+I mostly deal with devops - dockerizing server setups, bash scripting, hosting  server maintainance, database management. </br>
+I also play the occasional CTF, predominantly in the forensics category with a special interest for steganography.
 
 
 
